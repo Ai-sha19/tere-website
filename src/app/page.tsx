@@ -71,7 +71,7 @@ export default function Home() {
               layout="responsive"
               width={300}
               height={300}
-              src="/card"
+              src="/card1.JPG"
               alt="safe-ride"
             />
             <div className="flex flex-col gap-2 mx-3 text-justify mb-4">
@@ -89,7 +89,7 @@ export default function Home() {
               layout="responsive"
               width={300}
               height={300}
-              src="/card2"
+              src="/card2.jpg"
               alt="Affordable Fares"
             />
             <div className="flex flex-col gap-2 mx-3 text-justify mb-4">
@@ -129,7 +129,7 @@ export default function Home() {
               layout="responsive"
               width={300}
               height={300}
-              src="/card4"
+              src="/available.jpg"
               alt="24/7 Availability"
             />
             <div className="flex flex-col gap-2 mx-3 text-justify mb-4">
@@ -161,7 +161,7 @@ export default function Home() {
           {/* Card 6 */}
           <div className="flex gap-5 flex-col text-start items-center w-full md:w-80 shadow-2xl rounded-lg transition-transform duration-300 ease-in-out hover:scale-105">
             <Image
-              className="mt-4 object-cover"
+              className="mt-4 object-cover w-[300px]"
               layout="responsive"
               width={300}
               height={300}
